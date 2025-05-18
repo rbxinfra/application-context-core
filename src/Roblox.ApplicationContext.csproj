@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+      <Description>Simple provider for application context.</Description>
+
+      <Version>1.2.4</Version>
+    </PropertyGroup>
+    
+  </Project>
+  
